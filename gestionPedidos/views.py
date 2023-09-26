@@ -30,5 +30,5 @@ def buscar (request):
 
     return HttpResponse(mensaje)
 
-def contacto (request):
+def contacto(request):
     return render(request, "contacto.html")
