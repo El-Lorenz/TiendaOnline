@@ -123,8 +123,8 @@ EMAIL_BACKEND="django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST="smtp.mail.yahoo.com"
 EMAIL_USE_SSL=True
 EMAIL_PORT=587
-EMAIL_HOST_USER="eg_lamas@yahoo.com.ar"
-EMAIL_HOST_PASSWORD="8421lorenzo1"
+EMAIL_HOST_USER="algo@algo.com"
+EMAIL_HOST_PASSWORD="yyyyyyyyy"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
